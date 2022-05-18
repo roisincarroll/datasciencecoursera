@@ -2,7 +2,7 @@
 title: "Data Scientists Toolbox Submission - Markdown File"
 author: "Roisin Carroll"
 date: '2022-05-18'
-output: pdf_document
+output: github_document
 ---
 
 ## This is a markdown file
